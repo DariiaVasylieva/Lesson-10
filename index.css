@@ -1,0 +1,17 @@
+table {
+    width: 50%;
+    border: 2px solid #000;
+}
+
+th {
+    padding: 20px;
+    border: 2px solid #000;
+}
+
+.th_1 {
+    background-color: rgb(48, 96, 217);
+}
+
+.th_2 {
+    background-color: yellow;
+}
